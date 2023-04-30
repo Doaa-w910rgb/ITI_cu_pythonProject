@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "first_name": "sara",
+        "last_name": "ahmed",
+        "email": "sahmed@gmail.com",
+        "password": "67845678",
+        "mobile_phone": "01007846800"
+    },
+    {
+        "id": 1,
+        "first_name": "maher",
+        "last_name": "samy",
+        "email": "maher@gmail.com",
+        "password": "29097654",
+        "mobile_phone": "01557683682"
+    },
+    {
+        "id": 2,
+        "first_name": "doaa",
+        "last_name": "samy",
+        "email": "doaa.df@gmail.com",
+        "password": "12345678",
+        "mobile_phone": "01276543210"
+    },
+    {
+        "id": 3,
+        "first_name": "Asmaa",
+        "last_name": "samy",
+        "email": "as.samy@gmail.com",
+        "password": "87654321",
+        "mobile_phone": "01111986543"
+    },
+    {
+        "id": 4,
+        "first_name": "asmaa",
+        "last_name": "saleh",
+        "email": "asmaa.a@gmail.com",
+        "password": "12345678",
+        "mobile_phone": "01187659876"
+    }
+]
